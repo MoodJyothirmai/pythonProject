@@ -1,0 +1,5 @@
+rank = max(90,100)
+print(rank)
+print(type(rank))
+rank = ("12")
+print(type(rank))

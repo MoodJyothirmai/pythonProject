@@ -5,18 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b72cda9-5fc5-423a-9c49-6ec01e1fa089" name="Changes" comment="Lab002">
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_10082024/Lab_013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_023_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_13-08-2024/Lab_025_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1_08082024/Lab_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_08-08-2024/Lab_001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1_08082024/Lab_002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_08-08-2024/Lab_002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_011.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_10082024/Lab_013.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_10-08-2024/Lab_013.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +87,18 @@
     "Python.Lab_011.executor": "Run",
     "Python.Lab_012.executor": "Run",
     "Python.Lab_013.executor": "Run",
+    "Python.Lab_014.executor": "Run",
+    "Python.Lab_015.executor": "Run",
+    "Python.Lab_017.executor": "Run",
+    "Python.Lab_018.executor": "Run",
+    "Python.Lab_019.executor": "Run",
+    "Python.Lab_020.executor": "Run",
+    "Python.Lab_021.executor": "Run",
+    "Python.Lab_022.executor": "Run",
+    "Python.Lab_023_Task1.executor": "Run",
+    "Python.Lab_023_Task2.executor": "Run",
+    "Python.Lab_024.executor": "Run",
+    "Python.Lab_025.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
