@@ -1,4 +1,5 @@
 # Task 1 - Table program
+
 Number = int(input("Enter a number u want to print the table: "))
 print(f"{Number} * 1 = {Number * 1}")
 print(f"{Number} * 2 = {Number * 2}")

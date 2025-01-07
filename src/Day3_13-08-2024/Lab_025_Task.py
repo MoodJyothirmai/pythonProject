@@ -1,3 +1,5 @@
+# Task 2
+
 num1 = int(input("Enter a num1: "))
 num2 = int(input("Enter a num2: "))
 print("Maximum of " f"{num1, num2} is {max(num1, num2)}")
